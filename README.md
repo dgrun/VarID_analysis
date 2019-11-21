@@ -1,4 +1,6 @@
-# VarID analysis of manuscript Grün D. XXX
+# VarID analysis
+
+from: Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods Nov 18. doi: 10.1038/s41592-019-0632-3
 
 This repository contains R source code for reproducing the VarID
 analysis presented in Grün D. XXX.
@@ -41,4 +43,4 @@ VarID_intestine.R
 
 ## Reference:
 
-Grün D. XXX
+Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods Nov 18. doi: 10.1038/s41592-019-0632-3
