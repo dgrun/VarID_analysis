@@ -1,8 +1,9 @@
-## VarID is part of the RaceID 0.1.4 package.
+## VarID is part of the RaceID (>= v0.1.4) package.
 ## This script contains the code to reproduce the anlysis of intestinal epithelial single-cell RNA-seq data
-## presented in Figures 4 of Grun XXX
+## presented in Figures 4 of Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods 17(1):45-49.  doi: 10.1038/s41592-019-0632-3
 ## Data from Haber, A. L. et al. A single-cell survey of the small intestinal epithelium. Nature 551, 333–339 (2017)
 
+## The analysis in this script was done with RaceID v0.1.6!! For letter versions cluster numbers and parameter settings potentially change.
 
 require(RaceID)
 

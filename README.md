@@ -1,11 +1,11 @@
 # VarID analysis
 
-from: Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods Nov 18. doi: 10.1038/s41592-019-0632-3
-
 This repository contains R source code for reproducing the VarID
-analysis presented in Grün D. XXX.
+analysis performed in Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods 17(1):45-49.  doi: 10.1038/s41592-019-0632-3
+
 
 VarID is part of the RaceID package starting with RaceID v0.1.4
+The scripts in this repository are designed for RaceID v0.1.6
 
 Two data sets were analysed:
 1) mouse hematopoietic progenitors (data from Tusi, B. K. et
@@ -43,4 +43,4 @@ VarID_intestine.R
 
 ## Reference:
 
-Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods Nov 18. doi: 10.1038/s41592-019-0632-3
+Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods 17(1):45-49.  doi: 10.1038/s41592-019-0632-3

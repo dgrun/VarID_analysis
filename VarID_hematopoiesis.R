@@ -1,8 +1,9 @@
-## VarID is part of the RaceID 0.1.4 package.
+## VarID is part of the RaceID (>= v0.1.4) package.
 ## This script contains the code to reproduce the anlysis of hematopoietic bone marrow single-cell RNA-seq data
-## presented in Figures 1-3 of Grun XXX
+## presented in Figures 1-3 of Grün D (2019) Revealing Dynamics of Gene Expression Variability in Cell State Space. Nature Methods 17(1):45-49.  doi: 10.1038/s41592-019-0632-3
 ## Data from Tusi, B. K. et al. Population snapshots predict early haematopoietic and erythroid hierarchies. Nature 555, 54–60 (2018)
 
+## The analysis in this script was done with RaceID v0.1.6!! For letter versions cluster numbers and parameter settings potentially change.
 
 require(RaceID)
 
